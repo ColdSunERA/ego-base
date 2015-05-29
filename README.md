@@ -1,4 +1,4 @@
-Discourse Steam Login
+EGO Theme For Discourse
 =====================
 
 1. SSH into your server.
