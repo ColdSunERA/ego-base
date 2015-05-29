@@ -3,7 +3,7 @@ EGO Theme For Discourse
 
 1. SSH into your server.
 
-2. `cd /var/docker`
+2. `cd /var/discourse`
 
 3. Open `containers/app.yml` and make the following changes:
 
